@@ -9,3 +9,6 @@ Plastic surgeons who undertake the repair and reconstruction of facial deformiti
 ## Object
 
 Our objective was to build a [model](https://github.com/AndreasAvgou/Eye-Gender-Patient/blob/main/eye_model.ipynb) to scan the image of an eye of a patient and find if the gender of the patient is male or female.
+
+## Dataset
+You can find the dataset used in this [link](https://drive.google.com/drive/folders/12ECUiITiJOPh_K8hhfu37soC3pWyNh-7?usp=sharing)
