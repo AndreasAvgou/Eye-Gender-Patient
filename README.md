@@ -1,4 +1,4 @@
-# Eye-Gender-Patient
+# Eye Gender Patient
 
 ## Problem Statement
 
