@@ -1,5 +1,6 @@
 # Eye Gender Patient
-![image](https://user-images.githubusercontent.com/22665704/164968550-80758463-0488-4666-9700-2cdf31f7682a.png)
+![image](https://user-images.githubusercontent.com/22665704/166136987-ed8d9e05-d788-41b0-8a6a-85a4dae1a126.png)
+
 
 
 ## Problem Statement
